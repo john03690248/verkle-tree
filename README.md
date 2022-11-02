@@ -1,5 +1,7 @@
 # Verkle-Tree
 ## Polynomial Commitment
+### Note：
+https://jamboard.google.com/d/1Cqsw-4lVx2sBk5AppjbqEhF2g_FGBvjqwcFs0q2mt2o/edit?usp=sharing
 ### Ref：
 https://www.youtube.com/watch?v=n4eiiCDhTes
 
