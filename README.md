@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=Qn6sFmo8xGo
 
 https://vitalik.ca/general/2021/06/18/verkle.html
 
+https://web3caff.com/zh_tc/archives/39013
+
