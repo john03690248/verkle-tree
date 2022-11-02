@@ -9,3 +9,5 @@ https://math.mit.edu/research/highschool/primes/materials/2019/conf/12-5-Kuszmau
 
 https://www.youtube.com/watch?v=Qn6sFmo8xGo
 
+https://vitalik.ca/general/2021/06/18/verkle.html
+
