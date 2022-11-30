@@ -15,3 +15,4 @@ https://vitalik.ca/general/2021/06/18/verkle.html
 
 https://web3caff.com/zh_tc/archives/39013
 
+https://www.youtube.com/watch?v=nkrk3jLj8Jw&list=WL&index=1
