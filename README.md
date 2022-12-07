@@ -12,6 +12,7 @@ https://vitalik.ca/general/2021/06/18/verkle.html (vitalik)
 
 https://www.youtube.com/watch?v=nkrk3jLj8Jw&list=WL&index=1 (視頻)
 
+https://dankradfeist.de/ethereum/2021/06/18/verkle-trie-for-eth1.html (Verkle Tree)\
 https://pkg.go.dev/github.com/gballet/go-verkle#section-readme (golang implement)\
 https://github.com/gballet/go-verkle (golang github)
 
